@@ -38,14 +38,32 @@ This is a 2D **Flappy Bird Game** created using **Python** and **Pygame**. The o
 
 #### Gameplay Video
 
-You can add a video of the gameplay to showcase how it looks in action. You can upload a video of the game on **YouTube** or another platform, then embed the link here.
-
-Example:
-[Watch the Flappy Bird Game in Action](https://www.youtube.com/watch?v=your_video_link)
+<!-- Resize using markdown image syntax with width parameter -->
+<a href="assets/videos/flappy-bird-gameplay.mp4">
+    <img src="assets/images/flappy-bird-thumbnail.png" alt="Flappy Bird Gameplay" width="250"/>
+</a>
 
 #### Screenshots
 
-![Flappy Bird Screenshot](assets/images/flappy-bird-screenshot.png)
+<img src="assets/images/Screenshot1_homescreen.png" width="200" />
+
+Homescreen
+
+<img src="assets/images/Screenshot2_choose_your_bird.png" width="200" />
+
+Choose your bird
+
+<img src="assets/images/Screenshot3_Counter.png" width="200" />
+
+Counter 3-2-1
+
+<img src="assets/images/Screenshot4_Gameplay.png" width="200" />
+
+Gameplay
+
+<img src="assets/images/Screenshot5_GameOver_Screen.png" width="200" />
+
+GameOver
 
 ### Credits
 - **Images**: All assets (bird, pipes, background, etc.) used in the game are sourced from free resources and custom-made images.
