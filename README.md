@@ -17,12 +17,11 @@ This is a 2D **Flappy Bird Game** created using **Python** and **Pygame**. The o
 
 ### Game Preview
 
-#### Gameplay Video
+#### Gameplay Video 
 
-<!-- Resize using markdown image syntax with width parameter -->
-<a href="assets/videos/ProjectVideo.mp4">
-    <img src="assets/images/flappy-bird-thumbnail.png" alt="Flappy Bird Gameplay" width="250"/>
-</a>
+#### Click below to Watch Now
+
+[<img src="assets/images/flappy-bird-thumbnail.png" width="250" />]([https://drive.google.com/file/d/1e7Jf2fMzk5zQJhM1VCwx76w9KJDbBdht/view?usp=sharing](https://drive.google.com/drive/folders/1bXUrE9O_eLy6X_fvO7S0-k_Qni7PbltO?usp=drive_link))
 
 #### Screenshots
 
