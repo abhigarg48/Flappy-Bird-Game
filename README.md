@@ -15,31 +15,12 @@ This is a 2D **Flappy Bird Game** created using **Python** and **Pygame**. The o
 - **Spacebar** or **Up Arrow**: Flap the bird to rise.
 - **Escape**: Exit the game at any time.
 
-### Installation
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/flappy-bird-game.git
-    ```
-2. **Navigate to the project directory**:
-    ```bash
-    cd flappy-bird-game
-    ```
-3. **Install Pygame** (if not already installed):
-    ```bash
-    pip install pygame
-    ```
-4. **Run the game**:
-    ```bash
-    python game.py
-    ```
-
 ### Game Preview
 
 #### Gameplay Video
 
 <!-- Resize using markdown image syntax with width parameter -->
-<a href="assets/videos/flappy-bird-gameplay.mp4">
+<a href="assets/videos/ProjectVideo.mp4">
     <img src="assets/images/flappy-bird-thumbnail.png" alt="Flappy Bird Gameplay" width="250"/>
 </a>
 
@@ -64,6 +45,25 @@ Gameplay
 <img src="assets/images/Screenshot5_GameOver_Screen.png" width="200" />
 
 GameOver
+
+### Installation
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/flappy-bird-game.git
+    ```
+2. **Navigate to the project directory**:
+    ```bash
+    cd flappy-bird-game
+    ```
+3. **Install Pygame** (if not already installed):
+    ```bash
+    pip install pygame
+    ```
+4. **Run the game**:
+    ```bash
+    python game.py
+    ```
 
 ### Credits
 - **Images**: All assets (bird, pipes, background, etc.) used in the game are sourced from free resources and custom-made images.
