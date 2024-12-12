@@ -43,6 +43,25 @@ Gameplay
 
 GameOver
 
+## Tech Stack
+
+This project is built using the following technologies:
+
+### Programming Language
+- **Python**: The core game logic is implemented using Python, leveraging its simplicity and versatility.
+
+### Libraries
+- **Pygame**: A cross-platform library for game development, used to handle graphics, events, and sound in this project.
+
+### Assets
+- **Image Assets**: Custom and pre-designed images for the bird, pipes, background, and game over screen.
+- **Sound Assets**: Various sound effects (e.g., wing flap, point scored, collision) to enhance the gameplay experience.
+
+### Development Tools
+- **VS Code**: Used as the primary code editor for writing and debugging the Python code.
+- **Git**: Version control system for tracking changes and collaboration.
+- **GitHub**: Repository hosting service for sharing and managing the project's source code.
+
 ### Installation
 
 1. **Clone the repository**:
