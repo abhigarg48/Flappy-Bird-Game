@@ -66,11 +66,11 @@ This project is built using the following technologies:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/flappy-bird-game.git
+    git clone https://github.com/abhigarg48/Flappy-Bird-Game.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd flappy-bird-game
+    cd Flappy-Bird-Game
     ```
 3. **Install Pygame** (if not already installed):
     ```bash
